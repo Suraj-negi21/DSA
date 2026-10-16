@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-negi21/DSA/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/Suraj-negi21/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Suraj-negi21/DSA/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-negi21/DSA/tree/master/0001-two-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Suraj-negi21/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Suraj-negi21/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
