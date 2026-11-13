@@ -42,8 +42,8 @@ public:
 
             ListNode* nextstart=end->next;
             end->next=NULL;
-            ListNode* newhead = reverselist(ptr);
-            tail->next = newhead;
+           reverselist(ptr);
+            tail->next = end;
             tail=ptr;
             ptr=nextstart;
             
