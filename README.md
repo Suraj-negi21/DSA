@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suraj-negi21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Suraj-negi21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suraj-negi21/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Suraj-negi21/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Suraj-negi21/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Suraj-negi21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Suraj-negi21/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
