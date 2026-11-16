@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-negi21/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-negi21/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Suraj-negi21/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Suraj-negi21/DSA/tree/master/0054-spiral-matrix) |
 ## Matrix
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suraj-negi21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-negi21/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/Suraj-negi21/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Suraj-negi21/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suraj-negi21/DSA/tree/master/0142-linked-list-cycle-ii) |
