@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Suraj-negi21/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Suraj-negi21/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Suraj-negi21/DSA/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Suraj-negi21/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-negi21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Suraj-negi21/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Suraj-negi21/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Suraj-negi21/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suraj-negi21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Suraj-negi21/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Suraj-negi21/DSA/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Suraj-negi21/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
