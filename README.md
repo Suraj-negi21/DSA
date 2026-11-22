@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj-negi21/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suraj-negi21/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-negi21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Suraj-negi21/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Suraj-negi21/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Suraj-negi21/DSA/tree/master/0496-next-greater-element-i) |
 ## Matrix
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Suraj-negi21/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suraj-negi21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suraj-negi21/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Suraj-negi21/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Suraj-negi21/DSA/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Suraj-negi21/DSA/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Suraj-negi21/DSA/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
