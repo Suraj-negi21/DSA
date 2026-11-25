@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Suraj-negi21/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Suraj-negi21/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Suraj-negi21/DSA/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Suraj-negi21/DSA/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
@@ -246,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Suraj-negi21/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suraj-negi21/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suraj-negi21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Suraj-negi21/DSA/tree/master/0704-binary-search) |
 | [0938-range-sum-of-bst](https://github.com/Suraj-negi21/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
