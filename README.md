@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Suraj-negi21/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-negi21/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-negi21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Suraj-negi21/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Suraj-negi21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suraj-negi21/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Suraj-negi21/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Suraj-negi21/DSA/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suraj-negi21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Suraj-negi21/DSA/tree/master/0704-binary-search) |
 | [0938-range-sum-of-bst](https://github.com/Suraj-negi21/DSA/tree/master/0938-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Suraj-negi21/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
